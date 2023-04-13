@@ -34,7 +34,8 @@ https://github.com/macconnn/javaLineBot.git
 ![GITHUB](https://github.com/macconnn/javaLineBot/blob/main/image/created.png)
 ## Create channel successful
 ![GITHUB](https://github.com/macconnn/javaLineBot/blob/main/image/1.png)
-Here's some important information to jot down  
+### Here's some important information to jot down  
+***
 > Basic Setting
 > > Channel secret  
 > > Your user ID  
