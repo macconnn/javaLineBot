@@ -2,7 +2,7 @@
 
 ## Introduction
 Here I'll show you how to build your own Line Bot(connect to chatGPT)  
-with java spring boot just follow the steps below, OK let's go  
+with java spring boot just follow the steps below
 
 ## Requirements
 
