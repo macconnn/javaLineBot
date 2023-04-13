@@ -10,6 +10,7 @@ Usage |  Version
 ---- | ----
 Spring boot | 2.6.4      
 JDK    |   1.8
+ngrok  |  xxx
 
 ***
   
@@ -41,6 +42,17 @@ https://github.com/macconnn/javaLineBot.git
 > Masseging API  
 > > Bot basic ID  
 > > Channel access token (press issue button)  
+
+
+### instll ngrok
+Use ngrok let LineBot can connect to your own server 
+listening 8080 port (server default port)
+```  
+ngrok http 8080  
+```  
+copy the Forwarding and paste to here  
+![GITHUB](https://github.com/macconnn/javaLineBot/blob/main/image/2.png)
+
 
 
 
