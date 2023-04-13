@@ -44,6 +44,9 @@ https://github.com/macconnn/javaLineBot.git
 > > Bot basic ID  
 > > Channel access token (press issue button)  
 
+### Second get chatGPT API
+
+[Here to get chatGPT secret key] (http://www.soft4fun.net/scan/redir.php?url=https%3A%2F%2Fplatform.openai.com%2Faccount%2Fapi-keys)
 
 ### instll ngrok
 ***
