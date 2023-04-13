@@ -24,15 +24,16 @@ https://github.com/macconnn/javaLineBot.git
 
 ### First create your Line Developer account
 
-### create project
+### Create project
 ![GITHUB](https://github.com/macconnn/javaLineBot/blob/main/image/create_project.png)
-### set a provider name
-
-### select Messaging API channel
-
-### enter some necessary basic information
-
-### create channel successful
+### Set a provider name
+![GITHUB](https://github.com/macconnn/javaLineBot/blob/main/image/setName.png)
+### Select Messaging API channel
+![GITHUB](https://github.com/macconnn/javaLineBot/blob/main/image/selectMsgAPI.png)
+### Enter some necessary basic information then create it
+![GITHUB](https://github.com/macconnn/javaLineBot/blob/main/image/created.png)
+### Create channel successful
+![GITHUB](https://github.com/macconnn/javaLineBot/blob/main/image/1.png)
 Here's some important information to jot down  
 > Basic Setting
 > > Channel secret  
