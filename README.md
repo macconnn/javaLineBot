@@ -22,10 +22,10 @@ clone my repository to your local with git :)
 https://github.com/macconnn/javaLineBot.git
 
 
-### create your Line Developer account
-  
-### create project
+### First create your Line Developer account
 
+### create project
+![GITHUB](https://github.com/macconnn/javaLineBot/blob/main/image/create_project.png)
 ### set a provider name
 
 ### select Messaging API channel
