@@ -18,8 +18,22 @@ with java spring boot just follow the steps below, OK let's go
   
 ### Clone source code
 
-clone my repository to your local with git :)
+clone my repository to your local with git :)  
 https://github.com/macconnn/javaLineBot.git
+
+
+### create your Line Developer account
+  
+### create project
+
+### set a provider name
+
+### select Messaging API channel
+
+### enter some necessary basic information
+
+### create channel successful
+
 
 
 
