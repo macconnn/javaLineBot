@@ -48,6 +48,7 @@ https://github.com/macconnn/javaLineBot.git
 
 [chatGPT secret key](https://platform.openai.com/account/api-keys?utm_source=soft4fun&utm_medium=post)  
 **The secret key just only show once**
+![GITHUB](https://github.com/macconnn/javaLineBot/blob/main/image/3.png)
 
 ### instll ngrok
 ***
