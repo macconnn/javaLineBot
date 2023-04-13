@@ -10,12 +10,10 @@ JDK    |   1.8
 
 ***
 
-**How to build this stuff**
-Here I'll show you how to build your own Line Bot(connect to chatGPT) with java spring boot   
-just follow the steps below, OK let's go
-
-
-
+### How to build this stuff
+Here I'll show you how to build your own Line Bot(connect to chatGPT) with java spring boot    
+just follow the steps below, OK let's go  
+  
 ### Clone source code
 
 clone my repository to your local with git :)
