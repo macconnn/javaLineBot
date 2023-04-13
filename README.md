@@ -33,8 +33,13 @@ https://github.com/macconnn/javaLineBot.git
 ### enter some necessary basic information
 
 ### create channel successful
-
-
+Here's some important information to jot down  
+> Basic Setting
+> > Channel secret
+> > Your user ID
+> Masseging API
+> > Bot basic ID
+> > Channel access token (press issue button)
 
 
 
