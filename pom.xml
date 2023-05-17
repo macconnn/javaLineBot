@@ -11,7 +11,6 @@
     <groupId>com.eden</groupId>
     <artifactId>linebot</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <packaging>war</packaging>
     <name>linebot</name>
     <description>linebot</description>
     <properties>
@@ -74,6 +73,20 @@
             <artifactId>jtransc-rt</artifactId>
             <version>0.5.0-ALPHA4</version>
         </dependency>
+        <dependency>
+            <groupId>org.ini4j</groupId>
+            <artifactId>ini4j</artifactId>
+            <version>0.5.4</version>
+        </dependency>
+        <dependency>
+            <groupId>mysql</groupId>
+            <artifactId>mysql-connector-java</artifactId>
+            <version>8.0.30</version>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-jdbc</artifactId>
+        </dependency>
     </dependencies>
 
     <build>
@@ -91,6 +104,9 @@
                 </configuration>
             </plugin>
         </plugins>
+
+        <finalName>Java-line-GPT-bot</finalName>
+
     </build>
 
 </project>
