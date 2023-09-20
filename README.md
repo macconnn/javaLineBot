@@ -59,7 +59,3 @@ ngrok http 8080
 ```  
 copy the Forwarding and paste to here  
 ![GITHUB](https://github.com/macconnn/javaLineBot/blob/main/image/2.png)
-
-
-
-
